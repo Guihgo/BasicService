@@ -4,7 +4,7 @@ BasicService
 Basic Communication between service and activity via BroadCast - Android
 
 
-How to do (Video Tutorial in 3 steps)?
+How to do (Video Tutorial in 3 steps [720p])?
 -
  They are in portuguese, but you can see how to do easily. 
 
